@@ -9,14 +9,14 @@
 ![This is an image](assets/readme/img_4.png)
 ![This is an image](assets/readme/img_5.png)
 
-- #Alert Dialog (Android & IOS)
-- #Drawer
-- #SingleChildScrollView
-- #Horizontal ListView
-- #Vertical ListView
-- #Horizontal + Vertical ListView
-- #ListView
-- #GridView
-- #PageView
-- #BottomNavigationBar
-- #TabBar
+- Alert Dialog (Android & IOS)
+- Drawer
+- SingleChildScrollView
+- Horizontal ListView
+- Vertical ListView
+- Horizontal + Vertical ListView
+- ListView
+- GridView
+- PageView
+- BottomNavigationBar
+- TabBar
